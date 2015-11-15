@@ -9,34 +9,41 @@ public class PoetrySlamBot {
 
 	public static void main(String[] args) {
 
-		//		Scanner kb = new Scanner(System.in);
-		//		System.out.print("Enter a line: ");
-		//		
-		//		String line = kb.nextLine();
-		
 		File in = null;
+		File out = null;
 		File f = new File("src/main/resources/words.txt");
 
-		if (args.length > 0) {
+		if (args.length == 2) {
 			in = new File(args[0]);
+			out = new File(args[1]);
 		} else {
-			System.out.println("PoetrySlamBot needs an input file, ya doofus!");
+			System.out.println("PoetrySlamBot takes 2 arguments: an input file and an output file");
 			return;
 		}
 
 		try {
 			FileReader fileReader = new FileReader(in);
 			BufferedReader bufferedReader = new BufferedReader(fileReader);
+			FileWriter fileWriter = new FileWriter(out);
+			BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+
 			String line = null;
 			int lineNum = 1;
 			while ((line = bufferedReader.readLine()) != null) {
 				line = line.trim().replaceAll("[^a-zA-Z0-9\\s]", "");
 				line = line.toLowerCase();
-				if (line.equals("")) System.out.println(lineNum);
-				else System.out.println(lineNum + " " + MakeString.makeString(line, f));
+				if (line.equals("")) {
+					bufferedWriter.write("\n");
+					System.out.println(lineNum);
+				}
+				else {
+					String s = MakeString.makeString(line, f);
+					bufferedWriter.write(s + "\n");
+					System.out.println(lineNum + " " + s);
+				}
 				lineNum++;
 			}
-
+			bufferedWriter.close();
 			bufferedReader.close();
 		} catch(FileNotFoundException ex) {
 			System.out.println(
@@ -47,10 +54,5 @@ public class PoetrySlamBot {
 					"Error reading file '" 
 							+ in + "'");   
 		}
-
-//				String line = "my my all all"; //"The quick brown fox jumped over the pig.";
-//				
-//				String out = MakeString.makeString(line, f);
-//				System.out.println(out);
 	}
 }

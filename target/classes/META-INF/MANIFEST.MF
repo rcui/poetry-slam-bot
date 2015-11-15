@@ -1,5 +1,7 @@
 Manifest-Version: 1.0
 Built-By: richard
+Class-Path: lib/opennlp-tools-1.6.0.jar
 Build-Jdk: 1.8.0_51
 Created-By: Maven Integration for Eclipse
+Main-Class: main.PoetrySlamBot
 
