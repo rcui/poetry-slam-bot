@@ -1,0 +1,9 @@
+words/WordList.class
+util/FileIO.class
+util/Parse.class
+util/WeightedList.class
+main/MakeWords.class
+words/Word.class
+util/CompareLines.class
+main/PoetrySlamBot.class
+util/MakeString.class

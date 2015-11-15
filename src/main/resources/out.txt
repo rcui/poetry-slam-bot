@@ -1,0 +1,1441 @@
+SONGS_NNP OF_IN INNOCENCE_NNP AND_CC OF_IN EXPERIENCE_RB
+
+and_CC
+
+THE_DT BOOK_NNP of_IN THEL_NNP
+
+
+
+
+
+SONGS_NNS OF_IN INNOCENCE_NN
+
+
+INTRODUCTION_NN
+
+Piping_VBG down_IN the_DT valleys_NNS wild,_MD
+Piping_VBG songs_NNS of_IN pleasant_JJ glee,_NN
+On_IN a_DT cloud_NN I_PRP saw_VBD a_DT child,_NN
+And_CC he_PRP laughing_VBG said_VBD to_TO me:_MD
+
+"Pipe_NN a_DT song_NN about_IN a_DT Lamb!"_NNP
+So_IN I_PRP piped_VBD with_IN merry_NN cheer._.
+"Piper,_NN pipe_NN that_IN song_NN again;"_RB
+So_RB I_PRP piped:_VBD he_PRP wept_VBD to_TO hear._PRP$
+
+"Drop_NN thy_JJ pipe,_NN thy_RB happy_JJ pipe;_NN
+Sing_VBG thy_JJ songs_NNS of_IN happy_JJ cheer!"_NN
+So_RB I_PRP sang_VBD the_DT same_JJ again,_NN
+While_IN he_PRP wept_VBD with_IN joy_NN to_TO hear._PRP$
+
+"Piper,_RB sit_VB thee_PRP down_RB and_CC write_VB
+In_IN a_DT book,_NN that_IN all_DT may_MD read."_VB
+So_RB he_PRP vanish'd_VBD from_IN my_PRP$ sight;_NN
+And_CC I_PRP pluck'd_VBD a_DT hollow_JJ reed,_NN
+
+And_CC I_PRP made_VBD a_DT rural_JJ pen,_NN
+And_CC I_PRP stain'd_VBD the_DT water_NN clear,_NN
+And_CC I_PRP wrote_VBD my_PRP$ happy_JJ songs_NNS
+Every_DT child_NN may_MD joy_NN to_TO hear._PRP$
+
+
+THE_DT SHEPHERD_NNP
+
+How_WRB sweet_JJ is_VBZ the_DT Shepherd's_NNP sweet_JJ lot!_NN
+From_IN the_DT morn_NN to_TO the_DT evening_NN he_PRP stays;_MD
+He_PRP shall_MD follow_VB his_PRP$ sheep_NN all_DT the_DT day,_NN
+And_CC his_PRP$ tongue_NN shall_MD be_VB filled_VBN with_IN praise._NN
+
+For_IN he_PRP hears_VBZ the_DT lambs'_JJ innocent_JJ call,_NN
+And_CC he_PRP hears_VBZ the_DT ewes'_JJ tender_NN reply;_NN
+He_PRP is_VBZ watching_VBG while_IN they_PRP are_VBP in_IN peace,_NN
+For_IN they_PRP know_VBP when_WRB their_PRP$ Shepherd_NN is_VBZ nigh._NN
+
+
+THE_DT ECHOING_NNP GREEN_NNP
+
+The_DT sun_NN does_VBZ arise,_VBG
+And_CC make_VB happy_JJ the_DT skies;_NN
+The_DT merry_NN bells_NNS ring_NN
+To_TO welcome_VB the_DT Spring;_NNP
+The_DT skylark_NN and_CC thrush,_NN
+The_DT birds_NNS of_IN the_DT bush,_NN
+Sing_VBG louder_JJR around_IN
+To_TO the_DT bells'_NNS cheerful_JJ sound;_NN
+While_IN our_PRP$ sports_NNS shall_MD be_VB seen_VBN
+On_IN the_DT echoing_VBG Green._NNP
+
+Old_NNP John,_NNP with_IN white_JJ hair,_NN
+Does_VBZ laugh_NN away_RB care,_.
+Sitting_VBG under_IN the_DT oak,_NN
+Among_IN the_DT old_JJ folk._NN
+They_PRP laugh_NN at_IN our_PRP$ play,_NN
+And_CC soon_RB they_PRP all_DT say,_NNS
+"Such,_NNS such_JJ were_VBD the_DT joys_NNS
+When_WRB we_PRP all--girls_NNS and_CC boys--_NNS
+In_IN our_PRP$ youth-time_NN were_VBD seen_VBN
+On_IN the_DT echoing_VBG Green."_NNP
+
+Till_IN the_DT little_JJ ones,_NNS weary,_.
+No_DT more_RBR can_MD be_VB merry:_JJ
+The_DT sun_NN does_VBZ descend,_VBG
+And_CC our_PRP$ sports_NNS have_VBP an_DT end._VBN
+Round_CC the_DT laps_NNS of_IN their_PRP$ mothers_NNS
+Many_JJ sisters_NNS and_CC brothers,_NN
+Like_IN birds_NNS in_IN their_PRP$ nest,_NN
+Are_VBP ready_JJ for_IN rest,_VBG
+And_CC sport_NN no_DT more_RBR seen_VBN
+On_IN the_DT darkening_NN green._NN
+
+
+THE_DT LAMB_NN
+
+Little_NNP Lamb,_NNP who_WP made_VBD thee_NN
+Dost_JJS thou_NNS know_VBP who_WP made_VBD thee,_PRP$
+Gave_NNP thee_DT life,_NN and_CC bid_VB thee_PRP feed_VB
+By_IN the_DT stream_NN and_CC o'er_IN the_DT mead;_NN
+Gave_VB thee_DT clothing_NN of_IN delight,_NN
+Softest_NNP clothing,_NN woolly,_NN bright;_.
+Gave_NNP thee_, such_JJ a_DT tender_NN voice,_NN
+Making_VBG all_PDT the_DT vales_NNS rejoice?_VBG
+Little_NNP Lamb,_NNP who_WP made_VBD thee?_PRP$
+Dost_JJS thou_NNS know_VBP who_WP made_VBD thee?_PRP$
+
+Little_NNP Lamb,_NNP I'll_NNP tell_VBP thee;_:
+Little_NNP Lamb,_NNP I'll_NNP tell_VBP thee:_:
+He_PRP is_VBZ called_VBN by_IN thy_JJ name,_NN
+For_IN He_PRP calls_VBZ Himself_PRP a_DT Lamb_NNP
+He_PRP is_VBZ meek,_JJ and_CC He_PRP is_VBZ mild,_JJ
+He_PRP became_VBD a_DT little_JJ child._NN
+I_PRP a_DT child,_NN and_CC thou_VBD a_DT lamb,_NN
+We_PRP are_VBP called_VBN by_IN His_PRP$ name._NN
+Little_NNP Lamb,_NNP God_NNP bless_VB thee!_.
+Little_NNP Lamb,_NNP God_NNP bless_VB thee!_.
+
+
+THE_DT LITTLE_NNP BLACK_NNPS BOY_FW
+
+My_PRP$ mother_NN bore_VBD me_PRP in_IN the_DT southern_JJ wild,_NN
+And_CC I_PRP am_VBP black,_JJ but_CC oh_UH my_PRP$ soul_NN is_VBZ white!_JJ
+White_NNP as_IN an_DT angel_NN is_VBZ the_DT English_NNP child,_NN
+But_CC I_PRP am_VBP black,_JJ as_IN if_IN bereaved_VBN of_IN light._NN
+
+My_PRP$ mother_NN taught_VBD me_PRP underneath_IN a_DT tree,_NN
+And,_CC sitting_VBG down_RP before_IN the_DT heat_NN of_IN day,_NN
+She_PRP took_VBD me_PRP on_IN her_PRP$ lap_NN and_CC kissed_VBD me,_NNS
+And,_NNP pointed_VBD to_TO the_DT east,_JJ began_VBD to_TO say:_VB
+
+"Look_NN on_IN the_DT rising_VBG sun:_NN there_EX God_NNP does_VBZ live,_NNS
+And_CC gives_VBZ His_PRP$ light,_NN and_CC gives_VBZ His_PRP$ heat_NN away,_RB
+And_CC flowers_NNS and_CC trees_NNS and_CC beasts_NNS and_CC men_NNS receive_VBP
+Comfort_NN in_IN morning,_NN joy_NN in_IN the_DT noonday._NN
+
+"And_CC we_PRP are_VBP put_VBN on_IN earth_NN a_DT little_JJ space,_NN
+That_IN we_PRP may_MD learn_VB to_TO bear_VB the_DT beams_NNS of_IN love_NN
+And_CC these_DT black_JJ bodies_NNS and_CC this_DT sunburnt_JJ face_NN
+Is_VBZ but_CC a_DT cloud,_NN and_CC like_IN a_DT shady_JJ grove._NN
+
+"For_NN when_WRB our_PRP$ souls_NNS have_VBP learn'd_VBN the_DT heat_NN to_TO bear,_VB
+The_DT cloud_NN will_MD vanish,_VB we_PRP shall_MD hear_VB His_PRP$ voice,_NN
+Saying,_NNP 'Come_VBP out_RP from_IN the_DT grove,_NN my_PRP$ love_NN and_CC care_NN
+And_CC round_RB my_PRP$ golden_JJ tent_NN like_IN lambs_NNS rejoice',"_VBG
+
+Thus_RB did_VBD my_PRP$ mother_NN say,_VBD and_CC kissed_VBD me;_NNS
+And_CC thus_RB I_PRP say_VBP to_TO little_JJ English_NNP boy._.
+When_WRB I_PRP from_IN black_JJ and_CC he_PRP from_IN white_JJ cloud_NN free,_NNS
+And_CC round_VBP the_DT tent_NN of_IN God_NNP like_IN lambs_NNS we_PRP joy_NN
+
+I'll_NNP shade_VB him_PRP from_IN the_DT heat_NN till_IN he_PRP can_MD bear_VB
+To_TO lean_VB in_IN joy_NN upon_IN our_PRP$ Father's_NNP knee;_NN
+And_CC then_RB I'll_NNP stand_NN and_CC stroke_NN his_PRP$ silver_NN hair,_NN
+And_CC be_VB like_IN him,_NN and_CC he_PRP will_MD then_RB love_VB me._.
+
+
+THE_DT BLOSSOM_NN
+
+Merry,_NNP merry_NN sparrow!_NN
+Under_IN leaves_NNS so_RB green_JJ
+A_DT happy_JJ blossom_NN
+Sees_NNS you,_, swift_JJ as_IN arrow,_NN
+Seek_VB your_PRP$ cradle_NN narrow,_.
+Near_IN my_PRP$ bosom._NN
+Pretty,_NNP pretty_RB robin!_.
+Under_IN leaves_NNS so_RB green_JJ
+A_DT happy_JJ blossom_NN
+Hears_NNS you_PRP sobbing,_RB sobbing,_.
+Pretty,_NNP pretty_RB robin,_RB
+Near_IN my_PRP$ bosom._NN
+
+
+THE_DT CHIMNEY-SWEEPER_JJ
+
+When_WRB my_PRP$ mother_NN died_VBD I_PRP was_VBD very_RB young,_JJ
+And_CC my_PRP$ father_NN sold_VBD me_PRP while_IN yet_RB my_PRP$ tongue_NN
+Could_MD scarcely_RB cry_VB "Weep!_. weep!_. weep!_NN weep!"_NN
+So_IN your_PRP$ chimneys_NNS I_PRP sweep,_VBP and_CC in_IN soot_NN I_PRP sleep._MD
+
+There's_DT little_JJ Tom_NNP Dacre,_NNP who_WP cried_VBD when_WRB his_PRP$ head,_NN
+That_DT curled_VBD like_IN a_DT lamb's_JJ back,_NN was_VBD shaved;_VBN so_IN I_PRP said,_VBP
+"Hush,_NN Tom!_NNP never_RB mind_VB it,_PRP for,_IN when_WRB your_PRP$ head's_NN bare,_NN
+You_PRP know_VBP that_IN the_DT soot_NN cannot_IN spoil_NN your_PRP$ white_JJ hair."_NN
+
+And_CC so_IN he_PRP was_VBD quiet,_RB and_CC that_DT very_RB night,_NN
+As_IN Tom_NNP was_VBD a-sleeping,_RB he_PRP had_VBD such_JJ a_DT sight!--_NNS
+That_DT thousands_NNS of_IN sweepers,_JJ Dick,_NNP Joe,_NNP Ned,_NNP and_CC Jack,_NNP
+Were_VBD all_DT of_IN them_PRP locked_VBN up_RP in_IN coffins_NNS of_IN black._NN
+
+And_CC by_IN came_VBD an_DT angel,_NN who_WP had_VBD a_DT bright_JJ key,_NN
+And_CC he_PRP opened_VBD the_DT coffins,_NN and_CC let_VB them_PRP all_DT free;_NNS
+Then_RB down_IN a_DT green_JJ plain,_NN leaping,_NN laughing,_NN they_PRP run,_VBP
+And_CC wash_NN in_IN a_DT river,_NN and_CC shine_VB in_IN the_DT sun._NN
+
+Then_RB naked_JJ and_CC white,_JJ all_DT their_PRP$ bags_NNS left_VBD behind,_IN
+They_PRP rise_VBP upon_IN clouds,_NN and_CC sport_NN in_IN the_DT wind;_NN
+And_CC the_DT Angel_NNP told_VBD Tom,_NNP if_IN he'd_PRP be_VB a_DT good_JJ boy,_NN
+He'd_PRP have_VBP God_NNP for_IN his_PRP$ father,_NN and_CC never_RB want_VBP joy._NN
+
+And_CC so_RB Tom_NNP awoke,_VBD and_CC we_PRP rose_VBD in_IN the_DT dark,_NN
+And_CC got_VBD with_IN our_PRP$ bags_NNS and_CC our_PRP$ brushes_NNS to_TO work._MD
+Though_IN the_DT morning_NN was_VBD cold,_JJ Tom_NNP was_VBD happy_JJ and_CC warm:_RBR
+So,_RB if_IN all_DT do_VBP their_PRP$ duty,_NN they_PRP need_VBP not_RB fear_VB harm._.
+
+
+THE_DT LITTLE_NNP BOY_NNP LOST_NNP
+
+"Father,_JJ father,_NN where_WRB are_VBP you_PRP going?_VBG
+Oh_UH do_VB not_RB walk_VB so_RB fast!_RB
+Speak,_NNP father,_NN speak_VBP to_TO your_PRP$ little_JJ boy,_NN
+Or_CC else_RB I_PRP shall_MD be_VB lost."_VBN
+
+The_DT night_NN was_VBD dark,_RB no_DT father_NN was_VBD there,_RB
+The_DT child_NN was_VBD wet_JJ with_IN dew;_VBG
+The_DT mire_NN was_VBD deep,_RB and_CC the_DT child_NN did_VBD weep,_.
+And_CC away_RB the_DT vapour_NN flew._.
+
+
+THE_DT LITTLE_NNP BOY_NNP FOUND_NN
+
+The_DT little_JJ boy_NN lost_VBD in_IN the_DT lonely_JJ fen,_NN
+Led_VBN by_IN the_DT wandering_VBG light,_NN
+Began_NNP to_TO cry,_VB but_CC God,_VB ever_RB nigh,_.
+Appeared_VBN like_IN his_PRP$ father,_NN in_IN white._WDT
+
+He_PRP kissed_VBD the_DT child,_NN and_CC by_IN the_DT hand_NN led,_.
+And_CC to_TO his_PRP$ mother_NN brought,_NNS
+Who_WP in_IN sorrow_NN pale,_NN through_IN the_DT lonely_JJ dale,_NN
+The_DT little_JJ boy_NN weeping_VBG sought._.
+
+
+LAUGHING_NN SONG_NN
+
+When_WRB the_DT green_JJ woods_NNS laugh_NN with_IN the_DT voice_NN of_IN joy,_NN
+And_CC the_DT dimpling_JJ stream_NN runs_VBZ laughing_VBG by;_IN
+When_WRB the_DT air_NN does_VBZ laugh_NN with_IN our_PRP$ merry_NN wit,_.
+And_CC the_DT green_JJ hill_NN laughs_VBZ with_IN the_DT noise_NN of_IN it;_PRP$
+
+when_WRB the_DT meadows_NNS laugh_NN with_IN lively_JJ green,_NN
+And_CC the_DT grasshopper_NN laughs_VBZ in_IN the_DT merry_NN scene,_NN
+When_WRB Mary_NNP and_CC Susan_NNP and_CC Emily_NNP
+With_IN their_PRP$ sweet_JJ round_NN mouths_NNS sing_VBP "Ha,_IN ha_NN he!"_NN
+
+When_WRB the_DT painted_JJ birds_NNS laugh_NN in_IN the_DT shade,_NN
+Where_WRB our_PRP$ table_NN with_IN cherries_NNS and_CC nuts_NNS is_VBZ spread:_VBN
+Come_VB live,_NNS and_CC be_VB merry,_JJ and_CC join_VB with_IN me,_NNS
+To_TO sing_VB the_DT sweet_JJ chorus_NN of_IN "Ha,_NNP ha,_VBD he!"_PRP$
+
+
+A_DT SONG_NN
+
+Sweet_JJ dreams,_NNS form_VB a_DT shade_NN
+O'er_NNP my_PRP$ lovely_JJ infant's_NN head!_NN
+Sweet_JJ dreams_NNS of_IN pleasant_JJ streams_NNS
+By_IN happy,_JJ silent,_JJ moony_NN beams!_.
+
+Sweet_NNP Sleep,_NNP with_IN soft_JJ down_IN
+Weave_VB thy_JJ brows_NNS an_DT infant_NN crown_NN
+Sweet_NNP Sleep,_NNP angel_NN mild,_.
+Hover_RB o'er_IN my_PRP$ happy_JJ child!_NN
+
+Sweet_JJ smiles,_NN in_IN the_DT night_NN
+Hover_RB over_IN my_PRP$ delight!_NN
+Sweet_NNP smiles,_VBD mother's_NNS smile,_VBG
+All_PDT the_DT livelong_JJ night_NN beguile._.
+
+Sweet_NNP moans,_VB dovelike_JJ sighs,_NN
+Chase_NNP not_RB slumber_VB from_IN thine_NN eyes!_NNS
+Sweet_NNP moan,_VB sweeter_JJR smile,_NN
+All_PDT the_DT dovelike_JJ moans_NNS beguile._.
+
+Sleep,_NNP sleep,_VBD happy_JJ child!_NN
+All_DT creation_NN slept_VBD and_CC smiled._VBG
+Sleep,_NNP sleep,_VBD happy_JJ sleep,_NN
+While_IN o'er_IN thee_DT doth_JJ mother_NN weep._.
+
+Sweet_JJ babe,_NN in_IN thy_JJ face_NN
+Holy_NNP image_NN I_PRP can_MD trace;_VB
+Sweet_JJ babe,_NN once_RB like_IN thee_NN
+Thy_PRP$ Maker_NNP lay,_, and_CC wept_VBD for_IN me:_NNS
+
+Wept_IN for_IN me,_NN for_IN thee,_NN for_IN all,_NNS
+When_WRB He_PRP was_VBD an_DT infant_NN small._.
+Thou_NNP His_PRP$ image_NN ever_RB see,_VB
+Heavenly_RB face_NN that_IN smiles_NNS on_IN thee!_PRP$
+
+Smiles_NNS on_IN thee,_DT on_IN me,_NNS on_IN all,_NNS
+Who_WP became_VBD an_DT infant_NN small;_NN
+Infant_NNP smiles_NNS are_VBP his_PRP$ own_JJ smiles;_NN
+Heaven_NN and_CC earth_NN to_TO peace_NN beguiles._.
+
+
+DIVINE_NNP IMAGE_NN
+
+To_TO Mercy,_NNP Pity,_NNP Peace,_NNP and_CC Love,_NNP
+All_DT pray_NN in_IN their_PRP$ distress,_NN
+And_CC to_TO these_DT virtues_NNS of_IN delight_NN
+Return_VB their_PRP$ thankfulness._WDT
+
+For_IN Mercy,_NNP Pity,_NNP Peace,_NNP and_CC Love,_NNP
+Is_VBZ God_NNP our_PRP$ Father_NN dear;_NN
+And_CC Mercy,_NNP Pity,_NNP Peace,_NNP and_CC Love,_NNP
+Is_VBZ man,_JJ his_PRP$ child_NN and_CC care._NN
+
+For_IN Mercy_NNP has_VBZ a_DT human_JJ heart_NN
+Pity,_VB a_DT human_JJ face;_NN
+And_CC Love,_VB the_DT human_JJ form_NN divine;_NN
+And_CC Peace,_NNP the_DT human_JJ dress._NN
+
+Then_RB every_DT man,_NN of_IN every_DT clime,_NN
+That_DT prays_NNS in_IN his_PRP$ distress,_NN
+Prays_NNS to_TO the_DT human_JJ form_NN divine:_NN
+Love,_NNP Mercy,_NNP Pity,_NNP Peace._NNP
+
+And_CC all_DT must_MD love_VB the_DT human_JJ form,_NN
+In_IN heathen,_NN Turk,_NNP or_CC Jew._NNP
+Where_WRB Mercy,_NNP Love,_NNP and_CC Pity_NNP dwell,_NN
+There_EX God_NNP is_VBZ dwelling_VBG too._.
+
+
+HOLY_NNP THURSDAY_NN
+
+'Twas_PRP on_IN a_DT Holy_NNP Thursday,_NNP their_PRP$ innocent_JJ faces_NNS clean,_NN
+Came_NNP children_NNS walking_VBG two_CD and_CC two,_CD in_IN read,_JJ and_CC blue,_JJ and_CC green:_JJ
+Grey-headed_JJ beadles_NNS walked_VBD before,_VBN with_IN wands_NNS as_RB white_JJ as_IN snow,_NN
+Till_NNP into_IN the_DT high_JJ dome_NN of_IN Paul's_NNP they_PRP like_VBP Thames_DT waters_NNS flow._.
+
+Oh_UH what_WP a_DT multitude_NN they_PRP seemed,_VBP these_DT flowers_NNS of_IN London_NNP town!_.
+Seated_VBN in_IN companies_NNS they_PRP sit,_VBP with_IN radiance_NN all_DT their_PRP$ own._NN
+The_DT hum_NN of_IN multitudes_NNS was_VBD there,_DT but_CC multitudes_NNS of_IN lambs,_NN
+Thousands_NNS of_IN little_JJ boys_NNS and_CC girls_NNS raising_VBG their_PRP$ innocent_JJ hands._NN
+
+Now_RB like_IN a_DT mighty_JJ wild_JJ they_PRP raise_VBP to_TO heaven_NN the_DT voice_NN of_IN song,_NN
+Or_CC like_IN harmonious_JJ thunderings_NNS the_DT seats_NNS of_IN heaven_NN among:_IN
+Beneath_IN them_PRP sit_VB the_DT aged_JJ man,_NN wise_JJ guardians_NNS of_IN the_DT poor._JJS
+Then_RB cherish_JJ pity,_NN lest_IN you_PRP drive_VBP an_DT angel_NN from_IN your_PRP$ door._NN
+
+
+NIGHT_NN
+
+The_DT sun_NN descending_VBG in_IN the_DT west,_NN
+The_DT evening_NN star_NN does_VBZ shine;_VBG
+The_DT birds_NNS are_VBP silent_JJ in_IN their_PRP$ nest,_NN
+And_CC I_PRP must_MD seek_VB for_IN mine._NN
+The_DT moon,_NN like_IN a_DT flower_NN
+In_IN heaven's_JJ high_JJ bower,_NN
+With_IN silent_JJ delight,_NN
+Sits_NNS and_CC smiles_NNS on_IN the_DT night._NN
+
+Farewell,_NNP green_JJ fields_NNS and_CC happy_JJ grove,_NN
+Where_WRB flocks_NNS have_VBP ta'en_VBN delight._.
+Where_WRB lambs_NNS have_VBP nibbled,_NN silent_JJ move_NN
+The_DT feet_NNS of_IN angels_NNS bright;_.
+Unseen_IN they_PRP pour_VBP blessing,_VB
+And_CC joy_NN without_IN ceasing,_VBG
+On_IN each_DT bud_NN and_CC blossom,_NN
+And_CC each_DT sleeping_NN bosom._.
+
+They_PRP look_VBP in_IN every_DT thoughtless_JJ nest_NN
+Where_WRB birds_NNS are_VBP covered_VBN warm;_RBR
+They_PRP visit_VBP caves_NNS of_IN every_DT beast,_NN
+To_TO keep_VB them_PRP all_DT from_IN harm:_NN
+If_IN they_PRP see_VBP any_DT weeping_VBG
+That_DT should_MD have_VB been_VBN sleeping,_VBN
+They_PRP pour_VBP sleep_NN on_IN their_PRP$ head,_NN
+And_CC sit_VB down_RP by_IN their_PRP$ bed._NN
+
+When_WRB wolves_NNS and_CC tigers_NNS howl_VBP for_IN prey,_NN
+They_PRP pitying_VBG stand_NN and_CC weep;_NN
+Seeking_VBG to_TO drive_VB their_PRP$ thirst_JJ away,_NNS
+And_CC keep_VB them_PRP from_IN the_DT sheep._NN
+But,_CC if_IN they_PRP rush_VBP dreadful,_VBN
+The_DT angels,_NN most_RBS heedful,_PRP$
+Receive_VB each_DT mild_JJ spirit,_NN
+New_NNP worlds_NNS to_TO inherit._MD
+
+
+And_CC there_EX the_DT lion's_NN ruddy_JJ eyes_NNS
+Shall_MD flow_VB with_IN tears_NNS of_IN gold:_NN
+And_CC pitying_VBG the_DT tender_NN cries,_NN
+And_CC walking_VBG round_RB the_DT fold:_NN
+Saying:_NNP "Wrath_NN by_IN His_PRP$ meekness,_NN
+And,_NNP by_IN His_PRP$ health,_NN sickness,_NNS
+Are_VBP driven_VBN away_RB
+From_IN our_PRP$ immortal_JJ day._NN
+
+"And_CC now_RB beside_IN thee,_DT bleating_VBG lamb,_NN
+I_PRP can_MD lie_VB down_RB and_CC sleep,_VB
+Or_CC think_VB on_IN Him_PRP who_WP bore_VBD thy_JJ name,_NN
+Graze_NNP after_IN thee,_NN and_CC weep._NN
+For,_NNP washed_VBD in_IN life's_NN river,_NN
+My_PRP$ bright_JJ mane_NN for_IN ever_RB
+Shall_MD shine_VB like_IN the_DT gold,_NN
+As_IN I_PRP guard_VBP o'er_IN the_DT fold."_NN
+
+
+SPRING_VBG
+
+Sound_NN the_DT flute!_NN
+Now_RB it's_PRP mute!_MD
+Bird's_NNP delight,_NN
+Day_NN and_CC night,_NN
+Nightingale,_NNPS
+In_IN the_DT dale,_NN
+Lark_NNP in_IN sky,--_PRP$
+Merrily,_.
+Merrily_RB merrily,_JJ to_TO welcome_VB in_IN the_DT year._NN
+
+Little_NNP boy,_NN
+Full_NNP of_IN joy;_NN
+Little_NNP girl,_NN
+Sweet_JJ and_CC small;_JJ
+Cock_NNP does_VBZ crow,_VBG
+So_RB do_VBP you;_.
+Merry_NNP voice,_NN
+Infant_NNP noise;_NN
+Merrily,_NNP merrily,_NN to_TO welcome_VB in_IN the_DT year._NN
+
+Little_NNP lamb,_NN
+Here_RB I_PRP am;_MD
+Come_VB and_CC lick_VB
+My_PRP$ white_JJ neck;_NN
+Let_VB me_PRP pull_VB
+Your_PRP$ soft_JJ wool;_NN
+Let_VB me_PRP kiss_VB
+Your_PRP$ soft_JJ face;_NN
+Merrily,_NNP merrily,_NN to_TO welcome_VB in_IN the_DT year._NN
+
+
+NURSE'S_NNP SONG_NNP
+
+When_WRB the_DT voices_NNS of_IN children_NNS are_VBP heard_VBN on_IN the_DT green,_NN
+And_CC laughing_VBG is_VBZ heard_VBN on_IN the_DT hill,_NN
+My_PRP$ heart_NN is_VBZ at_IN rest_NN within_IN my_PRP$ breast,_NN
+And_CC everything_NN else_RB is_VBZ still._.
+"Then_RB come_VB home,_RB my_PRP$ children,_NNS the_DT sun_NN is_VBZ gone_VBN down,_RB
+And_CC the_DT dews_NN of_IN night_NN arise;_.
+Come,_NNP come,_MD leave_VB off_RP play,_NN and_CC let_VB us_PRP away,_RB
+Till_IN the_DT morning_NN appears_VBZ in_IN the_DT skies."_NN
+
+"No,_NN no,_RB let_VB us_PRP play,_VB for_IN it_PRP is_VBZ yet_RB day,_VBN
+And_CC we_PRP cannot_MD go_VB to_TO sleep;_VB
+Besides,_IN in_IN the_DT sky_NN the_DT little_JJ birds_NNS fly,_VBG
+And_CC the_DT hills_NNS are_VBP all_DT covered_VBN with_IN sheep."_NN
+"Well,_NN well,_RB go_VB and_CC play_VB till_IN the_DT light_NN fades_NNS away,_CC
+And_CC then_RB go_VB home_NN to_TO bed."_VB
+The_DT little_JJ ones_NNS leaped,_, and_CC shouted,_NNS and_CC laughed,_NN
+And_CC all_DT the_DT hills_NNS echoed._.
+
+
+INFANT_NNP JOY_NNP
+
+"I_PRP have_VBP no_DT name;_NN
+I_PRP am_VBP but_CC two_CD days_NNS old."_.
+What_WP shall_MD I_PRP call_VB thee?_.
+"I_RB happy_JJ am,_NN
+Joy_NNP is_VBZ my_PRP$ name."_NN
+Sweet_JJ joy_NN befall_NN thee!_.
+
+Pretty_RB joy!_VBN
+Sweet_NNP joy,_NN but_CC two_CD days_NNS old._.
+Sweet_NNP Joy_NNP I_PRP call_VBP thee:_.
+Thou_NNP dost_NN smile,_NN
+I_PRP sing_VBP the_DT while;_NN
+Sweet_JJ joy_NN befall_NN thee!_.
+
+
+A_DT DREAM_NN
+
+Once_RB a_DT dream_NN did_VBD weave_VB a_DT shade_NN
+O'er_NNP my_PRP$ angel-guarded_JJ bed,_NN
+That_IN an_DT emmet_NN lost_VBD its_PRP$ way_NN
+Where_WRB on_IN grass_NN methought_NN I_PRP lay._MD
+
+Troubled,_NNP wildered,_, and_CC forlorn,_NNS
+Dark,_NNP benighted,_NN travel-worn,_NN
+Over_IN many_JJ a_DT tangle_NN spray,_NN
+All_DT heart-broke,_NN I_PRP heard_VBD her_PRP say:_VB
+
+"Oh_IN my_PRP$ children!_NNS do_VBP they_PRP cry,_VB
+Do_VBP they_PRP hear_VBP their_PRP$ father_NN sigh?_NN
+Now_RB they_PRP look_VBP abroad_RB to_TO see,_VB
+Now_RB return_VB and_CC weep_VB for_IN me."_NNS
+
+Pitying,_NNP I_PRP dropped_VBD a_DT tear:_NN
+But_CC I_PRP saw_VBD a_DT glow-worm_NN near,_RB
+Who_WP replied,_VBD "What_RB wailing_VBG wight_NN
+Calls_NNS the_DT watchman_NN of_IN the_DT night?_NN
+
+"I_RB am_VBP set_VBN to_TO light_VB the_DT ground,_NN
+While_IN the_DT beetle_NN goes_VBZ his_PRP$ round:_NN
+Follow_VB now_RB the_DT beetle's_NN hum;_NN
+Little_NNP wanderer,_VBD hie_IN thee_PRP home!"_.
+
+
+ON_IN ANOTHER'S_NNP SORROW_NNP
+
+Can_MD I_PRP see_VB another's_DT woe,_NN
+And_CC not_RB be_VB in_IN sorrow_NN too?_.
+Can_MD I_PRP see_VB another's_DT grief,_NN
+And_CC not_RB seek_VB for_IN kind_NN relief?_NN
+
+Can_MD I_PRP see_VB a_DT falling_VBG tear,_NN
+And_CC not_RB feel_VB my_PRP$ sorrow's_JJ share?_NN
+Can_MD a_DT father_NN see_VB his_PRP$ child_NN
+Weep,_NNP nor_CC be_VB with_IN sorrow_NN filled?_.
+
+Can_MD a_DT mother_NN sit_VB and_CC hear_VB
+An_DT infant_NN groan,_VBD an_DT infant_NN fear?_NN
+No,_NNP no!_NN never_RB can_MD it_PRP be!_.
+Never,_RB never_RB can_MD it_PRP be!_.
+
+And_CC can_MD He_PRP who_WP smiles_VBZ on_RB all_RB
+Hear_VB the_DT wren_NNS with_IN sorrows_NNS small,_.
+Hear_VB the_DT small_JJ bird's_NN grief_NN and_CC care,_NN
+Hear_VB the_DT woes_NNS that_IN infants_NNS bear--_.
+
+And_CC not_RB sit_VB beside_IN the_DT next,_NNS
+Pouring_NNP pity_NN in_IN their_PRP$ breast,_NN
+And_CC not_RB sit_VB the_DT cradle_NN near,_IN
+Weeping_PRP tear_VB on_IN infant's_JJ tear?_NNS
+
+And_CC not_RB sit_VB both_DT night_NN and_CC day,_NN
+Wiping_PRP all_DT our_PRP$ tears_NNS away?_.
+Oh_UH no!_NN never_RB can_MD it_PRP be!_.
+Never,_RB never_RB can_MD it_PRP be!_.
+
+He_PRP doth_RB give_VB his_PRP$ joy_NN to_TO all:_MD
+He_PRP becomes_VBZ an_DT infant_NN small,_NN
+He_PRP becomes_VBZ a_DT man_NN of_IN woe,_NN
+He_PRP doth_RB feel_VBP the_DT sorrow_NN too._.
+
+Think_VB not_RB thou_DT canst_NN sigh_VBP a_DT sigh,_NN
+And_CC thy_JJ Maker_NN is_VBZ not_RB by:_VBN
+Think_VB not_RB thou_DT canst_NN weep_VB a_DT tear,_NN
+And_CC thy_JJ Maker_NN is_VBZ not_RB near._.
+
+Oh_UH He_PRP gives_VBZ to_TO us_PRP his_PRP$ joy,_NN
+That_DT our_PRP$ grief_NN He_PRP may_MD destroy:_VB
+Till_NNP our_PRP$ grief_NN is_VBZ fled_VBN an_DT gone_VBN
+He_PRP doth_RB sit_VB by_IN us_PRP and_CC moan._VB
+
+
+SONGS_NNS OF_IN EXPERIENCE_RB
+
+
+INTRODUCTION_NN
+
+Hear_VB the_DT voice_NN of_IN the_DT Bard,_NNP
+Who_WP present,_NN past,_NN and_CC future,_JJ sees;_NN
+Whose_JJ ears_NNS have_VBP heard_VBN
+The_DT Holy_NNP Word_NNP
+That_DT walked_VBD among_IN the_DT ancient_JJ tree;_NN
+
+Calling_VBG the_DT lapsed_VBN soul,_NN
+And_CC weeping_VBG in_IN the_DT evening_NN dew;_NN
+That_DT might_MD control_VB
+The_DT starry_NN pole,_NN
+And_CC fallen,_VB fallen_VBN light_JJ renew!_NN
+
+"O_NNP Earth,_NNP O_NNP Earth,_NNP return!_.
+Arise_NNP from_IN out_IN the_DT dewy_NN grass!_NN
+Night_NNP is_VBZ worn,_VBN
+And_CC the_DT morn_NN
+Rises_NNS from_IN the_DT slumbrous_JJ mass._NN
+
+"Turn_NN away_RB no_DT more;_RBS
+Why_WRB wilt_MD thou_PRP turn_VB away?_RB
+The_DT starry_NN floor,_NN
+The_DT watery_NN shore,_MD
+Are_VBP given_VBN thee_PRP till_IN the_DT break_NN of_IN day."_NN
+
+
+EARTH'S_NNS ANSWER_NN
+
+Earth_NNP raised_VBD up_IN her_PRP$ head_NN
+From_IN the_DT darkness_NN dread_NN and_CC drear,_NNS
+Her_PRP$ light_NN fled,_NN
+Stony,_NNP dread,_NN
+And_CC her_PRP$ locks_NNS covered_VBN with_IN grey_NN despair._.
+
+"Prisoned_VBN on_IN watery_NN shore,_NNS
+Starry_NNP jealousy_NN does_VBZ keep_VB my_PRP$ den_NN
+Cold_NN and_CC hoar;_NN
+Weeping_NNP o'er,_IN
+I_PRP hear_VBP the_DT father_NN of_IN the_DT ancient_JJ men._NN
+
+"Selfish_JJ father_NN of_IN men!_NNS
+Cruel,_NNP jealous,_NN selfish_JJ fear!_NN
+Can_MD delight,_FW
+Chained_VBN in_IN night,_NN
+The_DT virgins_NNS of_IN youth_NN and_CC morning_NN bear?_NN
+
+"Does_NNS spring_NN hide_VB its_PRP$ joy,_NN
+When_WRB buds_NNS and_CC blossoms_NNS grow?_.
+Does_VBZ the_DT sower_NN
+Sow_NNP by_IN night,_NN
+Or_CC the_DT plowman_NN in_IN darkness_NN plough?_NN
+
+"Break_NN this_DT heavy_JJ chain,_NN
+That_DT does_VBZ freeze_VB my_PRP$ bones_NNS around!_IN
+Selfish,_NNP vain,_NN
+Eternal_JJ bane,_NN
+That_DT free_JJ love_NN with_IN bondage_NN bound."_NN
+
+
+THE_DT CLOD_NN AND_CC THE_DT PEBBLE_NN
+
+"Love_NN seeketh_VBZ not_RB itself_PRP to_TO please,_VB
+Nor_CC for_IN itself_PRP hath_IN any_DT care,_NN
+But_CC for_IN another_DT gives_VBZ it_PRP ease,_RB
+And_CC builds_VBZ a_DT heaven_NN in_IN hell's_NN despair."_IN
+
+So_RB sang_VBD a_DT little_JJ clod_NN of_IN clay,_NN
+Trodden_NNP with_IN the_DT cattle's_NNS feet,_NNS
+But_CC a_DT pebble_NN of_IN the_DT brook_NN
+Warbled_PRP out_IN these_DT metres_NNS meet:_VBP
+
+"Love_NN seeketh_VBZ only_RB Self_NNP to_TO please,_VB
+To_TO bind_NN another_DT to_TO its_PRP$ delight,_NN
+Joys_NNP in_IN another's_DT loss_NN of_IN ease,_NN
+And_CC builds_VBZ a_DT hell_NN in_IN heaven's_NNS despite."_IN
+
+
+HOLY_NNP THURSDAY_NN
+
+Is_VBZ this_DT a_DT holy_JJ thing_NN to_TO see_VB
+In_IN a_DT rich_JJ and_CC fruitful_JJ land,--_NNS
+Babes_NNP reduced_VBD to_TO misery,_VB
+Fed_NNP with_IN cold_JJ and_CC usurous_JJ hand?_NN
+
+Is_VBZ that_DT trembling_VBG cry_NN a_DT song?_NN
+Can_MD it_PRP be_VB a_DT song_NN of_IN joy?_NN
+And_CC so_RB many_JJ children_NNS poor?_.
+It_PRP is_VBZ a_DT land_NN of_IN poverty!_NN
+
+And_CC their_PRP$ son_NN does_VBZ never_RB shine,_VB
+And_CC their_PRP$ fields_NNS are_VBP bleak_JJ and_CC bare,_JJ
+And_CC their_PRP$ ways_NNS are_VBP filled_VBN with_IN thorns:_NNS
+It_PRP is_VBZ eternal_JJ winter_NN there._.
+
+For_IN where'er_IN the_DT sun_NN does_VBZ shine,_VBG
+And_CC where'er_IN the_DT rain_NN does_VBZ fall,_VBG
+Babes_NNS should_MD never_RB hunger_NN there,_.
+Nor_CC poverty_NN the_DT mind_NN appall._.
+
+
+THE_DT LITTLE_NNP GIRL_NNP LOST_NNP
+
+In_IN futurity_NN
+I_PRP prophetic_VBD see_VB
+That_IN the_DT earth_NN from_IN sleep_NN
+(Grave_VB the_DT sentence_NN deep)_RB
+
+Shall_MD arise,_VB and_CC seek_VB
+for_IN her_PRP$ Maker_NNP meek;_JJS
+And_CC the_DT desert_NN wild_JJ
+Become_IN a_DT garden_NN mild._.
+
+In_IN the_DT southern_JJ clime,_NN
+Where_WRB the_DT summer's_NNS prime_JJ
+Never_RB fades_NNS away,_RB
+Lovely_RB Lyca_NNP lay._.
+
+Seven_CD summers_NNS old_JJ
+Lovely_RB Lyca_NNP told._.
+She_PRP had_VBD wandered_VBD long,_RB
+Hearing_VBG wild_JJ birds'_NNS song._.
+
+"Sweet_JJ sleep,_NNS come_VBP to_TO me_PRP
+Underneath_IN this_DT tree;_NN
+Do_VB father,_NN mother,_NN weep?_.
+Where_WRB can_MD Lyca_NNP sleep?_JJ
+
+"Lost_NN in_IN desert_NN wild_JJ
+Is_VBZ your_PRP$ little_JJ child._NN
+How_WRB can_MD Lyca_NNP sleep_VB
+If_IN her_PRP$ mother_NN weep?_.
+
+"If_IN her_PRP$ heart_NN does_VBZ ache,_VB
+Then_RB let_VB Lyca_NNP wake;_NN
+If_IN my_PRP$ mother_NN sleep,_NNS
+Lyca_NNP shall_MD not_RB weep._VBG
+
+"Frowning,_NN frowning_VBG night,_NN
+O'er_IN this_DT desert_NN bright_JJ
+Let_VB thy_JJ moon_NN arise,_VBN
+While_IN I_PRP close_VBP my_PRP$ eyes."_NN
+
+Sleeping_VBG Lyca_NNP lay_VB
+While_IN the_DT beasts_NNS of_IN prey,_NN
+Come_VB from_IN caverns_NNS deep,_NNS
+Viewed_VBD the_DT maid_NN asleep._.
+
+The_DT kingly_JJ lion_NN stood,_NNS
+And_CC the_DT virgin_NN viewed:_NN
+Then_RB he_PRP gambolled_VBD round_RB
+O'er_IN the_DT hallowed_NN ground._VBN
+
+Leopards,_NNP tigers,_NN play_NN
+Round_CC her_PRP as_IN she_PRP lay;_MD
+While_IN the_DT lion_NN old_JJ
+Bowed_VBN his_PRP$ mane_NN of_IN gold,_NN
+
+And_CC her_PRP$ breast_NN did_VBD lick_NN
+And_CC upon_IN her_PRP neck,_.
+From_IN his_PRP$ eyes_NNS of_IN flame,_NNS
+Ruby_JJ tears_NNS there_RB came;_MD
+
+While_IN the_DT lioness_NN
+Loosed_VBD her_PRP$ slender_JJ dress,_NN
+And_CC naked_JJ they_PRP conveyed_VBD
+To_TO caves_NNS the_DT sleeping_NN maid._NN
+
+
+THE_DT LITTLE_NNP GIRL_NNP FOUND_NN
+
+All_PDT the_DT night_NN in_IN woe_NN
+Lyca's_NNP parents_NNS go_VBP
+Over_IN valleys_NNS deep,_NNS
+While_IN the_DT deserts_NNS weep._.
+
+Tired_NNP and_CC woe-begone,_JJ
+Hoarse_NNP with_IN making_VBG moan,_NNS
+Arm_NN in_IN arm,_DT seven_CD days_NNS
+They_PRP traced_VBD the_DT desert_NN ways._NN
+
+Seven_CD nights_NNS they_PRP sleep_VBP
+Among_IN shadows_NNS deep,_JJ
+And_CC dream_NN they_PRP see_VBP their_PRP$ child_NN
+Starved_VBN in_IN desert_NN wild._.
+
+Pale_NNP through_IN pathless_JJ ways_NNS
+The_DT fancied_JJ image_NN strays,_NN
+Famished,_NNP weeping,_NN weak,_NN
+With_IN hollow_JJ piteous_JJ shriek._NN
+
+Rising_VBG from_IN unrest,_VBG
+The_DT trembling_VBG woman_NN pressed_VBN
+With_IN feet_NNS of_IN weary_JJ woe;_NN
+She_PRP could_MD no_RB further_RB go._.
+
+In_IN his_PRP$ arms_NNS he_PRP bore_VBD
+Her,_RB armed_VBN with_IN sorrow_NN sore;_NNS
+Till_NNP before_IN their_PRP$ way_NN
+A_DT couching_NN lion_NN lay._.
+
+Turning_VBG back_RP was_VBD vain:_JJ
+Soon_RB his_PRP$ heavy_JJ mane_NN
+Bore_NNP them_PRP to_TO the_DT ground,_NN
+Then_RB he_PRP stalked_VBD around,_IN
+
+Smelling_VBG to_TO his_PRP$ prey;_NN
+But_CC their_PRP$ fears_NNS allay_.
+When_WRB he_PRP licks_VBZ their_PRP$ hands,_NN
+And_CC silent_JJ by_IN them_PRP stands._.
+
+They_PRP look_VBP upon_IN his_PRP$ eyes,_NNS
+Filled_VBN with_IN deep_JJ surprise;_NN
+And_CC wondering_VBG behold_NN
+A_DT spirit_NN armed_VBN in_IN gold._NN
+
+On_IN his_PRP$ head_NN a_DT crown,_NN
+On_IN his_PRP$ shoulders_NNS down_IN
+Flowed_VBN his_PRP$ golden_JJ hair._NN
+Gone_VBN was_VBD all_DT their_PRP$ care._NN
+
+"Follow_JJ me,"_NN he_PRP said;_MD
+"Weep_NN not_RB for_IN the_DT maid;_NN
+In_IN my_PRP$ palace_NN deep,_NNS
+Lyca_NNP lies_VBZ asleep."_RB
+
+Then_RB they_PRP followed_VBD
+Where_WRB the_DT vision_NN led,_NN
+And_CC saw_VBD their_PRP$ sleeping_VBG child_NN
+Among_IN tigers_NNS wild._MD
+
+To_TO this_DT day_NN they_PRP dwell_VBP
+In_IN a_DT lonely_JJ dell,_NN
+Nor_CC fear_VBP the_DT wolvish_NN howl_NN
+Nor_CC the_DT lion's_NNS growl._.
+
+
+THE_DT CHIMNEY_NNP SWEEPER_NN
+
+A_DT little_JJ black_JJ thing_NN in_IN the_DT snow,_NN
+Crying_VBG "weep!_JJ weep!"_NN in_IN notes_NNS of_IN woe!_NN
+"Where_RB are_VBP thy_JJ father_NN and_CC mother?_NN Say!"--_:
+"They_PRP are_VBP both_DT gone_VBN up_RP to_TO the_DT church_NN to_TO pray._MD
+
+"Because_IN I_PRP was_VBD happy_JJ upon_IN the_DT heath,_NN
+And_CC smiled_VBD among_IN the_DT winter's_NN snow,_NN
+They_PRP clothed_VBD me_PRP in_IN the_DT clothes_NNS of_IN death,_NN
+And_CC taught_VBD me_PRP to_TO sing_VB the_DT notes_NNS of_IN woe._NN
+
+"And_CC because_IN I_PRP am_VBP happy_JJ and_CC dance_VB and_CC sing,_VB
+They_PRP think_VBP they_PRP have_VBP done_VBN me_PRP no_DT injury,_NN
+And_CC are_VBP gone_VBN to_TO praise_NN God_NNP and_CC his_PRP$ priest_NN and_CC king,_NN
+Who_WP make_VBP up_RP a_DT heaven_NN of_IN our_PRP$ misery."_NN
+
+
+NURSE'S_NNP SONG_NNP
+
+When_WRB voices_NNS of_IN children_NNS are_VBP heard_VBN on_IN the_DT green,_NN
+And_CC whisperings_NNS are_VBP in_IN the_DT dale,_NN
+The_DT days_NNS of_IN my_PRP$ youth_NN rise_NN fresh_JJ in_IN my_PRP$ mind,_NN
+My_PRP$ face_NN turns_VBZ green_JJ and_CC pale._POS
+
+Then_RB come_VB home,_RB my_PRP$ children,_NNS the_DT sun_NN is_VBZ gone_VBN down,_RB
+And_CC the_DT dews_NN of_IN night_NN arise;_.
+Your_PRP$ spring_NN and_CC your_PRP$ day_NN are_VBP wasted_VBN in_IN play,_NNS
+And_CC your_PRP$ winter_NN and_CC night_NN in_IN disguise._NN
+
+
+THE_DT SICK_NNP ROSE_NNP
+
+O_UH rose,_VBD thou_DT art_NN sick!_.
+The_DT invisible_JJ worm,_NN
+That_DT flies_VBZ in_IN the_DT night,_NN
+In_IN the_DT howling_NN storm,_NN
+
+Has_VBZ found_VBD out_IN thy_JJ bed_NN
+Of_IN crimson_JJ joy,_NN
+And_CC his_PRP$ dark_JJ secret_JJ love_NN
+Does_VBZ thy_JJ life_NN destroy._.
+
+
+THE_DT FLY_NN
+
+Little_NNP Fly,_NNP
+Thy_PRP$ summer's_NN play_NN
+My_PRP$ thoughtless_JJ hand_NN
+Has_VBZ brushed_JJ away._.
+
+Am_VBP not_RB I_PRP
+A_DT fly_NN like_IN thee?_WDT
+Or_CC art_NN not_RB thou_IN
+A_DT man_NN like_IN me?_NNS
+
+For_IN I_PRP dance_VBP
+And_CC drink,_NN and_CC sing,_NN
+Till_IN some_DT blind_JJ hand_NN
+Shall_MD brush_VB my_PRP$ wing._NN
+
+If_IN thought_NN is_VBZ life_NN
+And_CC strength_NN and_CC breath_NN
+And_CC the_DT want_NN
+Of_IN thought_NN is_VBZ death;_RB
+
+Then_RB am_VBP I_PRP
+A_DT happy_JJ fly,_NN
+If_IN I_PRP live,_VBP
+Or_CC if_IN I_PRP die._VBP
+
+
+THE_DT ANGEL_NNP
+
+I_PRP dreamt_VBD a_DT dream!_NN What_WP can_MD it_PRP mean?_.
+And_CC that_IN I_PRP was_VBD a_DT maiden_NN Queen_NNP
+Guarded_VBN by_IN an_DT Angel_NNP mild:_NN
+Witless_IN woe_NN was_VBD ne'er_RB beguiled!_VBN
+
+And_CC I_PRP wept_VBD both_DT night_NN and_CC day,_NN
+And_CC he_PRP wiped_VBD my_PRP$ tears_NNS away;_RB
+And_CC I_PRP wept_VBD both_DT day_NN and_CC night,_NN
+And_CC hid_VBN from_IN him_PRP my_PRP$ heart's_NN delight._NN
+
+So_RB he_PRP took_VBD his_PRP$ wings,_NN and_CC fled;_NN
+Then_RB the_DT morn_NN blushed_VBD rosy_JJ red._.
+I_PRP dried_VBD my_PRP$ tears,_NNS and_CC armed_VBN my_PRP$ fears_NNS
+With_IN ten-thousand_CD shields_NNS and_CC spears._VBG
+
+Soon_RB my_PRP$ Angel_NNP came_VBD again;_RB
+I_PRP was_VBD armed,_IN he_PRP came_VBD in_IN vain;_NN
+For_IN the_DT time_NN of_IN youth_NN was_VBD fled,_VBN
+And_CC grey_JJ hairs_NNS were_VBD on_IN my_PRP$ head._NN
+
+
+THE_DT TYGER_NN
+
+Tyger,_JJ tyger,_NNS burning_VBG bright_JJ
+In_IN the_DT forests_NNS of_IN the_DT night,_NN
+What_WP immortal_JJ hand_NN or_CC eye_NN
+Could_MD frame_VB thy_JJ fearful_JJ symmetry?_NN
+
+In_IN what_WP distant_JJ deeps_NNS or_CC skies_NNS
+Burnt_VB the_DT fire_NN of_IN thine_NN eyes?_NNS
+On_IN what_WP wings_NNS dare_VBP he_PRP aspire?_RB
+What_WP the_DT hand_NN dare_MD seize_VB the_DT fire?_NN
+
+And_CC what_WP shoulder_NN and_CC what_WP art_NN
+Could_MD twist_VB the_DT sinews_NN of_IN thy_JJ heart?_NN
+And,_NNP when_WRB thy_JJ heart_NN began_VBD to_TO beat,_VB
+What_WP dread_JJ hand_NN and_CC what_WP dread_NN feet?_NNS
+
+What_WP the_DT hammer?_NN what_WP the_DT chain?_NN
+In_IN what_WP furnace_NN was_VBD thy_JJ brain?_NN
+What_WP the_DT anvil?_JJ what_WP dread_JJ grasp_NN
+Dare_VB its_PRP$ deadly_JJ terrors_NNS clasp?_.
+
+When_WRB the_DT stars_NNS threw_VBD down_RP their_PRP$ spears,_NN
+And_CC watered_JJ heaven_NN with_IN their_PRP$ tears,_NNS
+Did_VBD he_PRP smile_VB his_PRP$ work_NN to_TO see?_VB
+Did_VBD he_PRP who_WP made_VBD the_DT lamb_NN make_VBP thee?_PRP$
+
+Tyger,_JJ tyger,_NNS burning_VBG bright_JJ
+In_IN the_DT forests_NNS of_IN the_DT night,_NN
+What_WP immortal_JJ hand_NN or_CC eye_NN
+Dare_NNP frame_NN thy_JJ fearful_JJ symmetry?_NN
+
+
+MY_NNP PRETTY_JJ ROSE_NNP TREE_NN
+
+A_DT flower_NN was_VBD offered_VBN to_TO me,_VB
+Such_JJ a_DT flower_NN as_IN May_NNP never_RB bore;_MD
+But_CC I_PRP said_VBD "I've_NN a_DT pretty_JJ rose_NN tree,"_NN
+And_CC I_PRP passed_VBD the_DT sweet_JJ flower_NN o'er._WP
+
+Then_RB I_PRP went_VBD to_TO my_PRP$ pretty_JJ rose_NN tree,_NN
+To_TO tend_VB her_PRP$ by_IN day_NN and_CC by_IN night;_NN
+But_CC my_PRP$ rose_NN turned_VBD away_RB with_IN jealousy,_NN
+And_CC her_PRP$ thorns_NNS were_VBD my_PRP$ only_JJ delight._NN
+
+
+AH_NNP SUNFLOWER_NNP
+
+Ah_PRP Sunflower,_RB weary_JJ of_IN time,_NN
+Who_WP countest_NN the_DT steps_NNS of_IN the_DT sun;_NN
+Seeking_VBG after_IN that_DT sweet_JJ golden_JJ clime_NN
+Where_WRB the_DT traveller's_NNS journey_NN is_VBZ done;_VBN
+
+Where_WRB the_DT Youth_NNP pined_VBD away_RB with_IN desire,_NN
+And_CC the_DT pale_JJ virgin_NN shrouded_VBD in_IN snow,_NN
+Arise_NN from_IN their_PRP$ graves,_NN and_CC aspire_NN
+Where_WRB my_PRP$ Sunflower_NNP wishes_VBZ to_TO go!_VB
+
+
+THE_DT LILY_NNP
+
+The_DT modest_JJ Rose_NNP puts_VBZ forth_RB a_DT thorn,_NN
+The_DT humble_JJ sheep_NN a_DT threat'ning_NN horn:_NN
+While_IN the_DT Lily_NNP white_JJ shall_MD in_IN love_NN delight,_NN
+Nor_CC a_DT thorn_NN nor_CC a_DT threat_NN stain_IN her_PRP$ beauty_NN bright._.
+
+
+THE_DT GARDEN_NNP OF_IN LOVE_CD
+
+I_PRP laid_VBD me_PRP down_RP upon_IN a_DT bank,_NN
+Where_WRB Love_NNP lay_VBD sleeping;_VBG
+I_PRP heard_VBD among_IN the_DT rushes_NNS dank_NN
+Weeping,_NNP weeping._MD
+
+Then_RB I_PRP went_VBD to_TO the_DT heath_NN and_CC the_DT wild,_NN
+To_TO the_DT thistles_NNS and_CC thorns_NNS of_IN the_DT waste;_NN
+And_CC they_PRP told_VBD me_PRP how_WRB they_PRP were_VBD beguiled,_VBN
+Driven_VBN out,_JJ and_CC compelled_VBN to_TO the_DT chaste._NN
+
+I_PRP went_VBD to_TO the_DT Garden_NNP of_IN Love,_NNP
+And_CC saw_VBD what_WP I_PRP never_RB had_VBD seen;_VBN
+A_DT Chapel_NN was_VBD built_VBN in_IN the_DT midst,_NN
+Where_WRB I_PRP used_VBD to_TO play_VB on_IN the_DT green._NN
+
+And_CC the_DT gates_NNS of_IN this_DT Chapel_NN were_VBD shut_VBN
+And_CC "Thou_PRP shalt_MD not,"_RB writ_VB over_IN the_DT door;_NN
+So_RB I_PRP turned_VBD to_TO the_DT Garden_NNP of_IN Love_NNP
+That_DT so_RB many_JJ sweet_JJ flowers_NNS bore._.
+
+And_CC I_PRP saw_VBD it_PRP was_VBD filled_VBN with_IN graves,_NN
+And_CC tombstones_NNS where_WRB flowers_NNS should_MD be;_VB
+And_CC priests_NNS in_IN black_JJ gowns_NNS were_VBD walking_VBG their_PRP$ rounds,_NN
+And_CC binding_JJ with_IN briars_NNS my_PRP$ joys_NNS and_CC desires._VBG
+
+
+THE_DT LITTLE_NNP VAGABOND_NNP
+
+Dear_JJ mother,_NN dear_NN mother,_NN the_DT Church_NNP is_VBZ cold;_JJ
+But_CC the_DT Alehouse_NNP is_VBZ healthy,_JJ and_CC pleasant,_JJ and_CC warm._RBR
+Besides,_IN I_PRP can_MD tell_VB where_WRB I_PRP am_VBP used_VBN well;_PDT
+The_DT poor_JJ parsons_NNS with_IN wind_NN like_IN a_DT blown_VBN bladder_NN swell._.
+
+But,_CC if_IN at_IN the_DT Church_NNP they_PRP would_MD give_VB us_PRP some_DT ale,_NN
+And_CC a_DT pleasant_JJ fire_NN our_PRP$ souls_NNS to_TO regale,_VB
+We'd_NNP sing_VBP and_CC we'd_VBD pray_VB all_PDT the_DT livelong_JJ day,_NN
+Nor_CC ever_RB once_RB wish_VB from_IN the_DT Church_NNP to_TO stray._MD
+
+Then_RB the_DT Parson_NNP might_MD preach,_VB and_CC drink,_VB and_CC sing,_VB
+And_CC we'd_RB be_VB as_RB happy_JJ as_IN birds_NNS in_IN the_DT spring;_NN
+And_CC modest_JJ Dame_NNP Lurch,_NNP who_WP is_VBZ always_RB at_IN church,_NN
+Would_MD not_RB have_VB bandy_NN children,_NNS nor_CC fasting,_JJ nor_CC birch._MD
+
+And_CC God,_NNP like_IN a_DT father,_NN rejoicing_VBG to_TO see_VB
+His_PRP$ children_NNS as_RB pleasant_JJ and_CC happy_JJ as_IN he,_NN
+Would_MD have_VB no_DT more_JJR quarrel_NN with_IN the_DT Devil_NNP or_CC the_DT barrel,_NN
+But_CC kiss_NN him,_NN and_CC give_VB him_PRP both_DT drink_NN and_CC apparel._NN
+
+
+LONDON_NNP
+
+I_PRP wandered_VBD through_IN each_DT chartered_JJ street,_NN
+Near_IN where_WRB the_DT chartered_JJ Thames_NNP does_VBZ flow,_VBG
+A_DT mark_NN in_IN every_DT face_NN I_PRP meet,_MD
+Marks_NNS of_IN weakness,_JJ marks_NNS of_IN woe._NN
+
+In_IN every_DT cry_NN of_IN every_DT man,_NN
+In_IN every_DT infant's_JJ cry_NN of_IN fear,_NN
+In_IN every_DT voice,_NN in_IN every_DT ban,_NN
+The_DT mind-forged_JJ manacles_NNS I_PRP hear:_MD
+
+How_WRB the_DT chimney-sweeper's_JJ cry_NN
+Every_DT blackening_NN church_NN appalls,_NN
+And_CC the_DT hapless_JJ soldier's_NNS sigh_VBP
+Runs_NNS in_IN blood_NN down_IN palace-walls._PRP$
+
+But_CC most,_VB through_IN midnight_NN streets_NNS I_PRP hear_VBP
+How_WRB the_DT youthful_JJ harlot's_NN curse_NN
+Blasts_NNS the_DT new-born_JJ infant's_NN tear,_NNS
+And_CC blights_NNS with_IN plagues_NNS the_DT marriage-hearse._NN
+
+
+THE_DT HUMAN_NNP ABSTRACT_NNP
+
+Pity_NNP would_MD be_VB no_DT more_RBR
+If_IN we_PRP did_VBD not_RB make_VB somebody_NN poor,_NNS
+And_CC Mercy_NNP no_DT more_RBR could_MD be_VB
+If_IN all_DT were_VBD as_RB happy_JJ as_IN we._.
+
+And_CC mutual_JJ fear_NN brings_VBZ Peace,_NNP
+Till_IN the_DT selfish_JJ loves_NNS increase;_.
+Then_RB Cruelty_NNP knits_VBD a_DT snare,_NN
+And_CC spreads_VBZ his_PRP$ baits_NNS with_IN care._NN
+
+He_PRP sits_VBZ down_RP with_IN his_PRP$ holy_JJ fears,_NN
+And_CC waters_NNS the_DT ground_NN with_IN tears;_NNS
+Then_RB Humility_NNP takes_VBZ its_PRP$ root_NN
+Underneath_IN his_PRP$ foot._NN
+
+Soon_RB spreads_VBZ the_DT dismal_JJ shade_NN
+Of_IN Mystery_NNP over_IN his_PRP$ head,_NN
+And_CC the_DT caterpillar_NN and_CC fly_NN
+Feed_VBN on_IN the_DT Mystery._NNP
+
+And_CC it_PRP bears_VBZ the_DT fruit_NN of_IN Deceit,_NNS
+Ruddy_NNP and_CC sweet_JJ to_TO eat,_VB
+And_CC the_DT raven_NN his_PRP$ nest_NN has_VBZ made_VBN
+In_IN its_PRP$ thickest_JJS shade._NN
+
+The_DT gods_NNS of_IN the_DT earth_NN and_CC sea_NN
+Sought_NN through_IN nature_NN to_TO find_VB this_DT tree,_NN
+But_CC their_PRP$ search_NN was_VBD all_DT in_IN vain:_JJ
+There_EX grows_VBZ one_CD in_IN the_DT human_JJ Brain._NN
+
+
+INFANT_NNP SORROW_NNP
+
+My_PRP$ mother_NN groaned,_VBD my_PRP$ father_NN wept:_.
+Into_IN the_DT dangerous_JJ world_NN I_PRP leapt,_VBP
+Helpless,_NNP naked,_JJ piping_NN loud,_NNS
+Like_IN a_DT fiend_NN hid_VBN in_IN a_DT cloud._NN
+
+Struggling_VBG in_IN my_PRP$ father's_NN hands,_NN
+Striving_VBG against_IN my_PRP$ swaddling-bands,_NN
+Bound_NNP and_CC weary,_IN I_PRP thought_VBD best_JJS
+To_TO sulk_VB upon_IN my_PRP$ mother's_NNS breast._.
+
+
+A_DT POISON_NNP TREE_NN
+
+I_PRP was_VBD angry_JJ with_IN my_PRP$ friend:_NN
+I_PRP told_VBD my_PRP$ wrath,_NN my_PRP$ wrath_NN did_VBD end._.
+I_PRP was_VBD angry_JJ with_IN my_PRP$ foe:_NN
+I_PRP told_VBD it_PRP not,_, my_PRP$ wrath_NN did_VBD grow._.
+
+And_CC I_PRP watered_VBD it_PRP in_IN fears_NNS
+Night_NNP and_CC morning_NN with_IN my_PRP$ tears,_NN
+And_CC I_PRP sunned_VBD it_PRP with_IN smiles_NNS
+And_CC with_IN soft_JJ deceitful_JJ wiles._.
+
+And_CC it_PRP grew_VBD both_DT day_NN and_CC night,_NN
+Till_IN it_PRP bore_VBD an_DT apple_NN bright,_NN
+And_CC my_PRP$ foe_NN beheld_VBD it_PRP shine,_MD
+and_CC he_PRP knew_VBD that_IN it_PRP was_VBD mine,--_CD
+
+And_CC into_IN my_PRP$ garden_NN stole_VBD
+When_WRB the_DT night_NN had_VBD veiled_VBN the_DT pole;_NN
+In_IN the_DT morning,_NN glad,_NN I_PRP see_VBP
+My_PRP$ foe_NN outstretched_VBN beneath_IN the_DT tree._NN
+
+
+A_DT LITTLE_NNP BOY_NNP LOST_NNP
+
+"Nought_NN loves_VBZ another_DT as_IN itself,_PRP$
+Nor_CC venerates_VBZ another_DT so,_NN
+Nor_CC is_VBZ it_PRP possible_JJ to_TO thought_NN
+A_DT greater_JJR than_IN itself_PRP to_TO know._VB
+
+"And,_DT father,_NN how_WRB can_MD I_PRP love_VB you_PRP
+Or_CC any_DT of_IN my_PRP$ brothers_NNS more?_.
+I_PRP love_VBP you_PRP like_IN the_DT little_JJ bird_NN
+That_DT picks_VBZ up_RB crumbs_VBZ around_IN the_DT door."_NN
+
+The_DT Priest_NNP sat_VBD by_IN and_CC heard_VBD the_DT child;_NN
+In_IN trembling_VBG zeal_NN he_PRP seized_VBD his_PRP$ hair,_NN
+He_PRP led_VBD him_PRP by_IN his_PRP$ little_JJ coat,_NN
+And_CC all_DT admired_VBD the_DT priestly_JJ care._NN
+
+And_CC standing_VBG on_IN the_DT altar_NN high,_.
+"Lo,_RB what_WP a_DT fiend_NN is_VBZ here!"_RB said_VBD he:_NN
+"One_NN who_WP sets_VBZ reason_NN up_RP for_IN judge_NN
+Of_IN our_PRP$ most_JJS holy_JJ mystery."_NN
+
+The_DT weeping_VBG child_NN could_MD not_RB be_VB heard,_VBN
+The_DT weeping_VBG parents_NNS wept_VBD in_IN vain:_JJ
+They_PRP stripped_VBD him_PRP to_TO his_PRP$ little_JJ shirt,_NN
+And_CC bound_VBD him_PRP in_IN an_DT iron_NN chain,_NN
+
+And_CC burned_VBD him_PRP in_IN a_DT holy_JJ place_NN
+Where_WRB many_JJ had_VBD been_VBN burned_VBN before;_IN
+The_DT weeping_VBG parents_NNS wept_VBD in_IN vain._NN
+Are_VBP such_JJ thing_NN done_VBN on_IN Albion's_NNP shore?_.
+
+
+A_DT LITTLE_NNP GIRL_NNP LOST_NNP
+
+Children_NNS of_IN the_DT future_NN age,_NN
+Reading_VBG this_DT indignant_JJ page,_NN
+Know_VB that_IN in_IN a_DT former_JJ time_NN
+Love,_NNP sweet_JJ love,_NN was_VBD thought_VBN a_DT crime._NN
+
+In_IN the_DT age_NN of_IN gold,_NN
+Free_RB from_IN winter's_NNS cold,_NNS
+Youth_NNP and_CC maiden_NN bright,_NNS
+To_TO the_DT holy_JJ light,_NN
+Naked_JJ in_IN the_DT sunny_JJ beams_NNS delight._.
+
+Once_RB a_DT youthful_JJ pair,_NN
+Filled_VBN with_IN softest_NN care,_NN
+Met_NNP in_IN garden_NN bright_JJ
+Where_WRB the_DT holy_JJ light_NN
+Had_VBD just_RB removed_VBN the_DT curtains_NNS of_IN the_DT night._NN
+
+Then,_RB in_IN rising_VBG day,_NN
+On_IN the_DT grass_NN they_PRP play;_MD
+Parents_NNS were_VBD afar,_RB
+Strangers_NNS came_VBD not_RB near,_RB
+And_CC the_DT maiden_NN soon_RB forgot_VBD her_PRP fear._.
+
+Tired_NNP with_IN kisses_NNS sweet,_.
+They_PRP agree_VBP to_TO meet_VB
+When_WRB the_DT silent_JJ sleep_NN
+Waves_NNS o'er_IN heaven's_JJ deep,_NNS
+And_CC the_DT weary_JJ tired_JJ wanderers_NNS weep._.
+
+To_TO her_PRP$ father_NN white_JJ
+Came_VBD the_DT maiden_NN bright;_NN
+But_CC his_PRP$ loving_JJ look,_NN
+Like_IN the_DT holy_JJ book_NN
+All_DT her_PRP$ tender_NN limbs_NNS with_IN terror_NN shook._.
+
+"Ona,_JJ pale_JJ and_CC weak,_JJ
+To_TO thy_JJ father_NN speak!_.
+Oh_UH the_DT trembling_VBG fear!_NN
+Oh_UH the_DT dismal_JJ care_NN
+That_DT shakes_VBZ the_DT blossoms_NNS of_IN my_PRP$ hoary_NN hair!"_NN
+
+
+THE_DT SCHOOLBOY_NN
+
+I_PRP love_VBP to_TO rise_VB on_IN a_DT summer_NN morn,_NN
+When_WRB birds_NNS are_VBP singing_VBG on_IN every_DT tree;_NN
+The_DT distant_JJ huntsman_NN winds_VBZ his_PRP$ horn,_NN
+And_CC the_DT skylark_NN sings_NNS with_IN me:_NNS
+Oh_UH what_WP sweet_JJ company!_NN
+
+But_CC to_TO go_VB to_TO school_NN in_IN a_DT summer_NN morn,--_.
+Oh_UH it_PRP drives_VBZ all_DT joy_NN away!_.
+Under_IN a_DT cruel_JJ eye_NN outworn,_.
+The_DT little_JJ ones_NNS spend_VBP the_DT day_NN
+In_IN sighing_NN and_CC dismay._NN
+
+Ah_UH then_RB at_IN times_NNS I_PRP drooping_VBG sit,_NN
+And_CC spend_VB many_JJ an_DT anxious_JJ hour;_NN
+Nor_CC in_IN my_PRP$ book_NN can_MD I_PRP take_VB delight,_NN
+Nor_CC sit_VB in_IN learning's_NN bower,_NN
+Worn_NNP through_IN with_IN the_DT dreary_JJ shower._NN
+
+How_WRB can_MD the_DT bird_NN that_WDT is_VBZ born_VBN for_IN joy_NN
+Sit_VB in_IN a_DT cage_NN and_CC sing?_NN
+How_WRB can_MD a_DT child,_NN when_WRB fears_NNS annoy,_CC
+But_CC droop_VB his_PRP$ tender_NN wing,_NN
+And_CC forget_VB his_PRP$ youthful_JJ spring?_NN
+
+Oh_UH father_NN and_CC mother,_NN if_IN buds_NNS are_VBP nipped,_NN
+And_CC blossoms_NNS blown_VBN away;_RB
+And_CC if_IN the_DT tender_NN plants_NNS are_VBP stripped_VBN
+Of_IN their_PRP$ joy_NN in_IN the_DT springing_NN day,_NN
+By_IN sorrow_NN and_CC care's_NNS dismay,--_:
+
+How_WRB shall_MD the_DT summer_NN arise_VBP in_IN joy,_NN
+Or_CC the_DT summer_NN fruits_NNS appear?_.
+Or_CC how_WRB shall_MD we_PRP gather_VB what_WP griefs_NNS destroy,_VBN
+Or_CC bless_VB the_DT mellowing_NN year,_NN
+When_WRB the_DT blasts_NNS of_IN winter_NN appear?_NN
+
+
+TO_TO TIRZAH_NNP
+
+Whate'er_NNP is_VBZ born_VBN of_IN mortal_NN birth_NN
+Must_MD be_VB consumed_VBN with_IN the_DT earth,_NN
+To_TO rise_VB from_IN generation_NN free:_NNS
+Then_RB what_WP have_VBP I_PRP to_TO do_VB with_IN thee?_PRP$
+The_DT sexes_NNS sprang_VBD from_IN shame_NN and_CC pride,_NN
+Blown_VBN in_IN the_DT morn,_NN in_IN evening_NN died;_NN
+But_CC mercy_NN changed_VBD death_NN into_IN sleep;_NN
+The_DT sexes_NNS rose_VBD to_TO work_NN and_CC weep._NN
+
+Thou,_DT mother_NN of_IN my_PRP$ mortal_JJ part,_NN
+With_IN cruelty_NN didst_NN mould_MD my_PRP$ heart,_NN
+And_CC with_IN false_JJ self-deceiving_JJ tears_NNS
+Didst_IN bind_NN my_PRP$ nostrils,_NN eyes,_NNS and_CC ears,_NNS
+
+Didst_IN close_RB my_PRP$ tongue_NN in_IN senseless_JJ clay,_NN
+And_CC me_PRP to_TO mortal_JJ life_NN betray._.
+The_DT death_NN of_IN Jesus_NNP set_VBD me_PRP free:_IN
+Then_RB what_WP have_VBP I_PRP to_TO do_VB with_IN thee?_PRP$
+
+
+THE_DT VOICE_NN OF_IN THE_DT ANCIENT_JJ BARD_NNP
+
+Youth_NNP of_IN delight!_NN come_VBN hither_RB
+And_CC see_VB the_DT opening_NN morn,_NN
+Image_NNP of_IN Truth_NNP new-born._.
+Doubt_NNP is_VBZ fled,_JJ and_CC clouds_NNS of_IN reason,_NNS
+Dark_JJ disputes_NNS and_CC artful_JJ teazing._.
+Folly_NNP is_VBZ an_DT endless_JJ maze;_NN
+Tangled_JJ roots_NNS perplex_IN her_PRP ways;_MD
+How_WRB many_JJ have_VBP fallen_VBN there!_.
+They_PRP stumble_VBP all_DT night_NN over_IN bones_NNS of_IN the_DT dead;_NN
+And_CC feel--they_PRP know_VBP not_RB what_WP but_CC care;_NN
+And_CC wish_VB to_TO lead_VB others,_JJ when_WRB they_PRP should_MD be_VB led._VBN
+
+
+APPENDIX_NN
+
+A_DT DIVINE_NNP IMAGE_NN
+
+Cruelty_NNP has_VBZ a_DT human_JJ heart,_NN
+And_CC Jealousy_NNP a_DT human_JJ face;_NN
+Terror_NNP the_DT human_JJ form_NN divine,_NN
+And_CC Secresy_NNP the_DT human_JJ dress._NN
+
+The_DT human_JJ dress_NN is_VBZ forged_VBN iron,_VBG
+The_DT human_JJ form_NN a_DT fiery_JJ forge,_NN
+The_DT human_JJ face_NN a_DT furnace_NN sealed,_NN
+The_DT human_JJ heart_NN its_PRP$ hungry_JJ gorge._NN
+
+NOTE:_NNP Though_IN written_VBN and_CC engraved_VBN by_IN Blake,_NNP "A_NNP DIVINE_NNP IMAGE"_NNP was_VBD
+never_RB included_VBD in_IN the_DT SONGS_NNP OF_IN INNOCENCE_NNP AND_CC OF_IN EXPERIENCE._VBG
+
+
+
+
+
+
+William_NNP Blake's_NNP
+
+THE_DT BOOK_NNP of_IN THEL_NNP
+
+
+THEL'S_NNP Motto_NNP
+
+Does_VBZ the_DT Eagle_NNP know_VBP what_WP is_VBZ in_IN the_DT pit?_NN
+Or_CC wilt_JJ thou_NNS go_VBP ask_VB the_DT Mole:_NNP
+Can_MD Wisdom_NNP be_VB put_VBN in_IN a_DT silver_NN rod?_NN
+Or_CC Love_VB in_IN a_DT golden_JJ bowl?_NN
+
+
+THE_DT BOOK_NNP of_IN THEL_NNP
+
+The_DT Author_NNP &_CC Printer_NNP Willm._NNP Blake._NNP 1780_CD
+
+
+THEL_IN
+
+I_PRP
+
+The_DT daughters_NNS of_IN Mne_NNP Seraphim_NNP led_VBD round_IN their_PRP$ sunny_JJ flocks,_NN
+All_DT but_CC the_DT youngest:_JJ she_PRP in_IN paleness_NN sought_VBD the_DT secret_NN air._.
+To_TO fade_VB away_RP like_IN morning_NN beauty_NN from_IN her_PRP$ mortal_JJ day:_NN
+Down_IN by_IN the_DT river_NN of_IN Adona_NNP her_PRP$ soft_JJ voice_NN is_VBZ heard;_VBN
+And_CC thus_RB her_PRP$ gentle_JJ lamentation_NN falls_VBZ like_IN morning_NN dew._.
+
+O_UH life_NN of_IN this_DT our_PRP$ spring!_NN why_WRB fades_NNS the_DT lotus_NN of_IN the_DT water?_NN
+Why_WRB fade_VBD these_DT children_NNS of_IN the_DT spring?_NN born_VBN but_CC to_TO smile_VB &_CC fall._POS
+Ah!_DT Thel_NNP is_VBZ like_IN a_DT watry_NN bow,_NN and_CC like_IN a_DT parting_NN cloud,_NN
+Like_IN a_DT reflection_NN in_IN a_DT glass:_NN like_IN shadows_NNS in_IN the_DT water_NN
+Like_IN dreams_NNS of_IN infants,_NN like_IN a_DT smile_NN upon_IN an_DT infants_NNS face._.
+Like_IN the_DT doves_NNS voice,_NN like_IN transient_JJ day,_NN like_IN music_NN in_IN the_DT air:_NN
+Ah!_RB gentle_JJ may_MD I_PRP lay_VBD me_PRP down_RB and_CC gentle_JJ rest_NN my_PRP$ head._NN
+And_CC gentle_JJ sleep_NN the_DT sleep_NN of_IN death,_NN and_CC gently_RB hear_VB the_DT voice_NN
+Of_IN him_PRP that_IN walketh_VBG in_IN the_DT garden_NN in_IN the_DT evening_NN time._NN
+
+The_DT Lilly_NNP of_IN the_DT valley_NN breathing_VBG in_IN the_DT humble_JJ grass_NN
+Answerd_CC the_DT lovely_JJ maid_NN and_CC said:_VBD I_PRP am_VBP a_DT watry_NN weed,_NN
+And_CC I_PRP am_VBP very_RB small_JJ and_CC love_VB to_TO dwell_VB in_IN lowly_RB vales:_.
+So_RB weak_JJ the_DT gilded_VBN butterfly_NN scarce_JJ perches_NNS on_IN my_PRP$ head_NN
+Yet_CC I_PRP am_VBP visited_VBN from_IN heaven_NN and_CC he_PRP that_WDT smiles_VBZ on_RB all_RB
+Walks_NNP in_IN the_DT valley,_NN and_CC each_DT morn_NN over_IN me_PRP spreads_VBZ his_PRP$ hand_NN
+Saying,_NNP rejoice_NN thou_IN humble_JJ grass,_NN thou_IN new-born_JJ lily_NN flower._.
+Thou_DT gentle_JJ maid_NN of_IN silent_JJ valleys_NNS and_CC of_IN modest_JJ brooks:_NN
+For_IN thou_DT shall_MD be_VB clothed_VBN in_IN light,_NN and_CC fed_VBN with_IN morning_NN manna:_NN
+Till_NNP summers_NNS heat_NN melts_VBZ thee_PRP beside_IN the_DT fountains_NNS and_CC the_DT springs_NNS
+To_TO flourish_VB in_IN eternal_JJ vales:_NN they_PRP why_WRB should_MD Thel_NNP complain._NN
+Why_WRB should_MD the_DT mistress_NN of_IN the_DT vales_NNS of_IN Har,_NNP utter_JJ a_DT sigh._NN
+
+She_PRP ceasd_VBD &_CC smild_VBD in_IN tears,_NNS then_RB sat_VBD down_RB in_IN her_PRP$ silver_NN shrine._.
+
+Thel_NNP answerd,_NN O_NNP thou_VBD little_JJ virgin_NN of_IN the_DT peaceful_JJ valley._NN
+Giving_VBG to_TO those_DT that_WDT cannot_MD crave,_VB the_DT voiceless,_NN the_DT o'er_NN tired_VBN
+The_DT breath_NN doth_NN nourish_VBP the_DT innocent_JJ lamb,_NN he_PRP smells_VBZ the_DT milky_NN garments_NNS
+He_PRP crops_NNS thy_JJ flowers_NNS while_IN thou_DT sittest_NN smiling_VBG in_IN his_PRP$ face,_NN
+Wiping_VBG his_PRP$ mild_JJ and_CC meekin_JJ mouth_NN from_IN all_DT contagious_JJ taints._NN
+Thy_PRP$ wine_NN doth_NN purify_VB the_DT golden_JJ honey;_NN thy_JJ perfume._.
+Which_WDT thou_VBD dost_NN scatter_NN on_IN every_DT little_JJ blade_NN of_IN grass_NN that_IN springs_NNS
+Revives_NNS the_DT milked_JJ cow,_NN &_CC tames_VBZ the_DT fire-breathing_NN steed._.
+But_CC Thel_NNP is_VBZ like_IN a_DT faint_JJ cloud_NN kindled_VBD at_IN the_DT rising_VBG sun:_NN
+I_PRP vanish_VBP from_IN my_PRP$ pearly_JJ throne,_NN and_CC who_WP shall_MD find_VB my_PRP$ place._NN
+
+Queen_NNP of_IN the_DT vales_NNS the_DT Lily_NNP answered,_NN ask_VBP the_DT tender_NN cloud,_NN
+And_CC it_PRP shall_MD tell_VB thee_PRP why_WRB it_PRP glitters_VBD in_IN the_DT morning_NN sky._.
+And_CC why_WRB it_PRP scatters_VBZ its_PRP$ bright_JJ beauty_NN thro_IN the_DT humid_JJ air._NN
+Descend_NNP O_NNP little_JJ cloud_NN &_CC hover_RB before_IN the_DT eyes_NNS of_IN Thel._NNP
+
+The_DT Cloud_NNP descended_VBD and_CC the_DT Lily_NNP bowd_VBD her_PRP$ modest_JJ head:_NN
+And_CC went_VBD to_TO mind_VB her_PRP$ numerous_JJ charge_NN among_IN the_DT verdant_JJ grass._NN
+
+
+II._.
+
+O_UH little_JJ Cloud_NNP the_DT virgin_NN said,_VBD I_PRP charge_VBP thee_PRP to_TO tell_VB me_PRP
+Why_WRB thou_VBD complainest_NN now_RB when_WRB in_IN one_CD hour_NN thou_IN fade_NN away:_RB
+Then_RB we_PRP shall_MD seek_VB thee_PRP but_CC not_RB find:_JJ ah_WRB Thel_NNP is_VBZ like_IN to_TO thee._MD
+I_PRP pass_VBP away,_RB yet_RB I_PRP complain,_VBP and_CC no_DT one_NN hears_VBZ my_PRP$ voice._NN
+
+The_DT Cloud_NNP then_RB shewd_VBD his_PRP$ golden_JJ head_NN &_CC his_PRP$ bright_JJ form_NN emerg'd._VBG
+Hovering_NNP and_CC glittering_VBG on_IN the_DT air_NN before_IN the_DT face_NN of_IN Thel._NNP
+
+O_UH virgin_NN know'st_NN thou_VBD not_RB our_PRP$ steeds_NNS drink_NN of_IN the_DT golden_JJ springs_NNS
+Where_WRB Luvah_NNP doth_RB renew_VB his_PRP$ horses:_NN lookst_NN thou_VBD on_IN my_PRP$ youth._NN
+And_CC fearest_NN thou_NNS because_IN I_PRP vanish_VBP and_CC am_VBP seen_VBN no_DT more._RBR
+Nothing_NN remains;_VBZ O_UH maid_NN I_PRP tell_VBP thee,_, when_WRB I_PRP pass_VBP away._RB
+It_PRP is_VBZ to_TO tenfold_RB life,_VB to_TO love,_VB to_TO peace,_NNS and_CC raptures_NNS holy:_NNS
+Unseen_NNP descending,_NN weigh_VBP my_PRP$ light_NN wings_NNS upon_IN balmy_NN flowers:_NN
+And_CC court_NN the_DT fair_JJ eyed_VBD dew,_VBG to_TO take_VB me_PRP to_TO her_PRP$ shining_VBG tent_NN
+The_DT weeping_VBG virgin,_NN trembling_VBG kneels_NNS before_IN the_DT risen_VBN sun._NN
+Till_IN we_PRP arise_VBP link'd_VBN in_IN a_DT golden_JJ band_NN and_CC never_RB part:_NNS
+But_CC walk_NN united_VBD bearing_VBG food_NN to_TO all_DT our_PRP$ tender_NN flowers._VBG
+
+Dost_NNP thou_VBD O_UH little_JJ cloud?_NN I_PRP fear_VBP that_IN I_PRP am_VBP not_RB like_IN thee:_PRP$
+For_IN I_PRP walk_VBP through_IN the_DT vales_NNS of_IN Har,_NNP and_CC smell_VB the_DT sweetest_JJS flowers:_NN
+But_CC I_PRP feed_VB not_RB the_DT little_JJ flowers:_NN I_PRP hear_VBP the_DT warbling_NN birds,_NN
+But_CC I_PRP feed_VB not_RB the_DT warbling_NN birds,_NN they_PRP fly_VBP and_CC seek_VBP their_PRP$ food:_NN
+But_CC Thel_NNP delights_NNS in_IN these_DT no_DT more_RBR because_IN I_PRP fade_VBD away_RB
+And_CC all_DT shall_MD say,_VB without_IN a_DT use_NN this_DT shining_VBG women_NNS liv'd,_NN
+Or_CC did_VBD she_PRP only_RB live_VBP to_TO be_VB at_IN death_NN the_DT food_NN of_IN worms._NN
+
+The_DT Cloud_NNP reclind_NN upon_IN his_PRP$ airy_JJ throne_NN and_CC answerd_NN thus._.
+
+Then_RB if_IN thou_DT art_NN the_DT food_NN of_IN worms,_NN O_NNP virgin_NN of_IN the_DT skies,_NN
+How_WRB great_JJ thy_JJ use,_NN how_WRB great_JJ thy_JJ blessing,_NN every_DT thing_NN that_IN lives._VBG
+Lives_NNS not_RB alone_RB nor_CC or_CC itself:_PRP fear_VBP not_RB and_CC I_PRP will_MD call,_VB
+The_DT weak_JJ worm_NN from_IN its_PRP$ lowly_JJ bed,_NN and_CC thou_VBD shalt_RB hear_VB its_PRP$ voice._NN
+Come_VB forth_RB worm_NN and_CC the_DT silent_JJ valley,_NN to_TO thy_JJ pensive_JJ queen._NN
+
+The_DT helpless_JJ worm_NN arose_VBD and_CC sat_VBD upon_IN the_DT Lillys_NNP leaf,_NN
+And_CC the_DT bright_JJ Cloud_NNP saild_VBD on,_VBN to_TO find_VB his_PRP$ partner_NN in_IN the_DT vale._NN
+
+
+III._.
+
+Then_RB Thel_NNP astonish'd_JJ view'd_NN the_DT Worm_NN upon_IN its_PRP$ dewy_JJ bed._NN
+
+Art_NNP thou_VBD a_DT Worm?_JJ image_NN of_IN weakness,_JJ art_NN thou_NNS but_CC a_DT Worm?_NN
+I_PRP see_VBP thee_PRP like_IN an_DT infant_NN wrapped_VBN in_IN the_DT Lillys_NNP leaf;_NN
+Ah_UH weep_VB not_RB little_JJ voice,_NN thou_IN can'st_NN not_RB speak,_RB but_CC thou_VBD can'st_NN weep:_NNS
+Is_VBZ this_DT a_DT Worm?_NNP I_PRP see_VBP they_PRP lay_VBD helpless_JJ &_CC naked:_RB weeping_VBG
+And_CC none_NN to_TO answer,_VB none_NN to_TO cherish_VB thee_PRP with_IN mothers_NNS smiles._VBG
+
+The_DT Clod_NNP of_IN Clay_NNP heard_VBD the_DT Worms_NNP voice_NN &_CC rais'd_VBD her_PRP$ pitying_NN head:_NN
+She_PRP bowd_VBD over_IN the_DT weeping_VBG infant,_NN and_CC her_PRP$ life_NN exhald_NN
+In_IN milky_JJ fondness,_NN then_RB on_IN Thel_NNP she_PRP fix'd_VBD her_PRP$ humble_JJ eyes;_NN
+
+O_NNP beauty_NN of_IN the_DT vales_NNS of_IN Har,_NNP we_PRP live_VBP not_RB for_IN ourselves,_PRP$
+Thou_PRP seest_VB me_PRP the_DT meanest_NN thing,_NN and_CC so_IN I_PRP am_VBP indeed:_RB
+My_PRP$ bosom_NN of_IN itself_PRP is_VBZ cold,_JJR and_CC of_IN itself_PRP is_VBZ dark,_RB
+
+But_CC he_PRP that_WDT loves_VBZ the_DT lowly,_NN pours_VBZ his_PRP$ oil_NN upon_IN my_PRP$ head_NN
+And_CC kisses_NNS me,_, and_CC binds_VBZ his_PRP$ nuptial_JJ bands_NNS around_IN my_PRP$ breast._NN
+And_CC says;_VB Thou_DT mother_NN of_IN my_PRP$ children,_NN I_PRP have_VBP loved_VBN thee_.
+And_CC I_PRP have_VBP given_VBN thee_PRP a_DT crown_NN that_IN none_NN can_MD take_VB away._.
+But_CC how_WRB this_DT is_VBZ sweet_JJ maid,_NN I_PRP know_VBP not,_RB and_CC I_PRP cannot_MD know_VB
+I_PRP ponder,_VBP and_CC I_PRP cannot_MD ponder;_VB yet_RB I_PRP live_VBP and_CC love._POS
+
+The_DT daughter_NN of_IN beauty_NN wip'd_VBD her_PRP$ pitying_NN tears_NNS with_IN her_PRP white_JJ veil,_NN
+And_CC said,_VBD Alas!_NNP I_PRP knew_VBD not_RB this,_JJ and_CC therefore_RB did_VBD I_PRP weep:_MD
+That_IN God_NNP would_MD love_VB a_DT Worm_NN I_PRP knew,_VBD and_CC punish_VB the_DT evil_JJ foot_NN
+That_DT wilful_MD bruis'd_VB its_PRP$ helpless_JJ form:_NN but_CC that_IN he_PRP cherish'd_VBD it_PRP
+With_IN milk_NN and_CC oil_NN I_PRP never_RB knew,_VBD and_CC therefore_RB did_VBD I_PRP weep,_MD
+And_CC I_PRP complaind_VBP in_IN the_DT mild_JJ air,_NN because_IN I_PRP fade_VBD away._.
+And_CC lay_VBD me_PRP down_RB in_IN thy_JJ cold_JJ bed,_NN and_CC leave_VB my_PRP$ shining_VBG lot._NN
+
+Queen_NNP of_IN the_DT vales,_NN the_DT matron_NN Clay_NNP answered:_CC I_PRP heard_VBD thy_JJ sighs._.
+And_CC all_DT thy_JJ moans_NNS flew_VBD o'er_IN my_PRP$ roof,_NN but_CC I_PRP have_VBP call'd_VBN them_PRP down:_.
+Wilt_NNP thou_VBD O_NNP Queen_NNP enter_VBP my_PRP$ house,_NN tis_NN given_VBN thee_PRP to_TO enter,_VB
+And_CC to_TO return:_VB fear_NN nothing,_NN enter_VBP with_IN thy_JJ virgin_NN feet._.
+
+
+IV._.
+
+The_DT eternal_JJ gates_NNS terrific_JJ porter_NN lifted_VBD the_DT northern_JJ bar:_NN
+Thel_NNP enter'd_VBD in_IN &_CC saw_VBD the_DT secrets_NNS of_IN the_DT land_NN unknown;_NN
+She_PRP saw_VBD the_DT couches_NNS of_IN the_DT dead,_NN &_CC where_WRB the_DT fibrous_JJ roots_NNS
+Of_IN every_DT heart_NN on_IN earth_NN infixes_VBZ deep_JJ its_PRP$ restless_JJ twists:_NN
+A_DT land_NN of_IN sorrows_NNS &_CC of_IN tears_NNS where_WRB never_RB smile_NN was_VBD seen._VBG
+
+She_PRP wandered_VBD in_IN the_DT land_NN of_IN clouds_NNS thro'_IN valleys_NNS dark,_RB listning_VBG
+Dolors_NNP &_CC lamentations:_VBD waiting_VBG oft_RB beside_IN the_DT dewy_JJ grave_NN
+She_PRP stood_VBD in_IN silence,_JJ listning_NN to_TO the_DT voices_NNS of_IN the_DT ground,_NN
+Till_NNP to_TO her_PRP$ own_JJ grave_NN plot_NN she_PRP came,_VBD &_CC there_EX she_PRP sat_VBD down._.
+And_CC heard_VBD this_DT voice_NN of_IN sorrow_NN breathed_VBD from_IN the_DT hollow_JJ pit._NN
+
+Why_WRB cannot_IN the_DT Ear_NNP be_VB closed_VBN to_TO its_PRP$ own_JJ destruction?_NN
+Or_CC the_DT glistening_VBG Eye_NNP to_TO the_DT poison_NN of_IN a_DT smile!_NN
+Why_WRB are_VBP Eyelids_NNS stord_VBN with_IN arrows_NNS ready_JJ drawn,_NN
+Where_WRB a_DT thousand_CD fighting_VBG men_NNS in_IN ambush_NN lie!_NN
+Or_CC an_DT Eye_NNP of_IN gifts_NNS &_CC graces_NNS showring_VBG fruits_NNS &_CC coined_VBN gold!_NN
+
+Why_WRB a_DT Tongue_NNP impress'd_NN with_IN honey_NN from_IN every_DT wind?_NN
+Why_WRB an_DT Ear,_NNP a_DT whirlpool_NN fierce_JJ to_TO draw_VB creations_NNS in?_.
+Why_WRB a_DT Nostril_NNP wide_JJ inhaling_NN terror_NN trembling_VBG &_CC affright_RB
+Why_WRB a_DT tender_NN curb_NN upon_IN the_DT youthful_JJ burning_NN boy?_NN
+Why_WRB a_DT little_JJ curtain_NN of_IN flesh_NN on_IN the_DT bed_NN of_IN our_PRP$ desire?_NN
+
+The_DT Virgin_NNP started_VBD from_IN her_PRP$ seat,_NN &_CC with_IN a_DT shriek,_NN
+Fled_VBN back_RB unhinderd_RB till_IN she_PRP came_VBD into_IN the_DT vales_NNS of_IN Har._NNP
